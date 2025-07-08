@@ -1,1 +1,2 @@
-# .github
+# BASH Lab @ WPI
+The Bringing Awareness through Systems for Humans (BASH) Lab at WPI conducts research at the intersection of machine learning and ubiquitous/mobile systems. We develop intelligent, resource-efficient models for sensor-rich environments, with applications in health, accessibility, and edge AI. Our work spans sensor-LLM integration, audio and speech processing, and on-device learning. This GitHub page shares our open-source code, datasets, and research to promote reproducibility and collaboration.
