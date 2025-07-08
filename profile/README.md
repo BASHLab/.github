@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# BASH Lab @ WPI
+The Bringing Awareness through Systems for Humans (BASH) Lab at WPI conducts research at the intersection of machine learning and ubiquitous/mobile systems. We develop intelligent, resource-efficient models for sensor-rich environments, with applications in health, accessibility, and edge AI. Our work spans sensor-LLM integration, audio and speech processing, and on-device learning. This GitHub page shares our open-source code, datasets, and research to promote reproducibility and collaboration.
